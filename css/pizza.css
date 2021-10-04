@@ -1,0 +1,38 @@
+.navbar-home {
+    background-color: #823030!important;
+    border: none;
+}
+
+.navbar-home .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+
+.navbar-home .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #fff;
+}
+
+.navbar-home .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.carousel-content {
+    height: 490px;
+}
+
+.about-pizza{
+	margin-top: 3rem;
+	margin-bottom: 2rem;
+}
+
+.little-pizza {
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+    height: 250px;
+}
+
+.copyright{
+	background-color: #823030;
+	text-align: center;
+	color: white;
+}

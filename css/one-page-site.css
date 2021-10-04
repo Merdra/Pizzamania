@@ -1,0 +1,36 @@
+.about-us{
+    color: black;
+}
+
+.carousel-content {
+    height: 550px;
+    width: 1262px;
+}
+
+.little-pizza {
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+    height: 250px;
+}
+
+.plans{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    background-color: darkblue;
+    height: 170px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+
+.heading{
+    color: orange;
+    font-size: 20px;
+}
+
+.sub-heading{
+    color: greenyellow;
+}

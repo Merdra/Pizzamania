@@ -1,0 +1,27 @@
+.full-calc{
+	margin-left: 5vw;
+	color: white;
+}
+
+.result-display{
+	background-color: gray;
+	text-align: right;
+	font-size: 35px;
+	margin-left: 45px;
+	margin-right: 90px;
+}
+
+.number-col{
+	background-color: lightgray;
+	text-align: center;
+	font-size: 35px;
+	border: solid whitesmoke 1px;
+}
+
+.symbol-col{
+	background-color: orange;
+	text-align: center;
+	font-size: 35px;
+	border: solid whitesmoke 1px;
+	color: white;
+}
